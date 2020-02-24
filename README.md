@@ -1,15 +1,15 @@
 # NeuronBot2 User Manual
 
 ## Overview
-### Spec
-### Notices
+* Spec
+* Notices
 
 ## NeuronBot2 on ROS2
 ### ROS2 Introduction
 ### Software Setup
 ### Quick Start
-#### NeuronBot2
-#### Simulation
+* NeuronBot2
+* Simulation
 ### Package
 #### Base Driver
 * Base control node
@@ -27,5 +27,5 @@
 ### ROS2 Introduction
 ### Software Setup
 ### Quick Start
-#### NeuronBot2
-#### Simulation
+* NeuronBot2
+* Simulation
