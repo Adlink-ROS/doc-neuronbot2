@@ -12,7 +12,7 @@
 
 ## NeuronBot2 on ROS2
 ### ROS2 Introduction
-* [ADLINK ROS2 Intro](https://index.ros.org/doc/ros2/)
+* [ROS2 Introduction](https://index.ros.org/doc/ros2/)
 
 ### Setup
 * [Hardware Setup](setup_hardware.md)
