@@ -1,16 +1,23 @@
 # NeuronBot2 User Manual
 
 ## Overview
+<!--Introduction-->
+* Introduction Video
+  <!--link to youtube-->
 * Spec
 * Notices
+* NeuronBot2 Provider
+  [![](readme_resource/adlink.png)](https://www.adlinktech.com/tw/ROS2-Solution)
+  <!--![](SYY)-->
 
 ## NeuronBot2 on ROS2
 ### ROS2 Introduction
-<!-- Reference to Cube -->
-* [ADLINK ROS2 Intro](https://ipi.wiki/neuron_pi/)
+* [ADLINK ROS2 Intro](https://index.ros.org/doc/ros2/)
 
-### Setup Step
-* [Software Setup](software_setup.md)
+### Setup
+* [Hardware Setup](setup_hardware.md)
+* [PC Setup](setup_pc.md)
+* [NeuronBot2 Setup](setup_neuronbot2.md)
   <!--螢幕, SSH, IP, git repo, dependencies-->
   
 ### Quick Start
@@ -36,9 +43,18 @@
   <!-- introduction + reference-->
 * [Node Lifecycle](https://design.ros2.org/articles/node_lifecycle.html)
 
+
+## Contact us
+* [ADLINK-ARPG]()
+* [SYY]()
+
+<!--  404 The content is no longer  -->
+<!--
 ## NeuronBot2 on ROS1
 ### ROS1 Introduction
 ### Software Setup
 ### Quick Start
 * NeuronBot2
 * Simulation
+  
+-->
