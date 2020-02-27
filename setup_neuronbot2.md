@@ -133,3 +133,14 @@ timeout
 [ERROR] [neuron_serial]: Beep-bee-bee-boop-bee-doo-weep Can't connect to serial.
 [ERROR] [neuron_serial]: IO Exception (2): No such file or directory ...
 ```
+
+### Launch NeuronBot2 
+The launch file execute **Neuronbot Base_driver**, **robot_state_publisher**, **RPLidar**, **joint_state_publisher**, and **robot_localization** together. Through Rviz, users are able to check the status of each nodes. Here are couples thing you need to check.
+1. TF 
+
+    The first thing you should check is the direction of each TF. The direction of laser_frame is opposite to the base_link.
+    ![](readme_resource/tf_verification.png)
+2. Lidar direction
+    Use your body move in front of NeuronBot2, and check if the laser scan point in Rviz is changing in the corresponding direction.
+    ![](readme_resource/lidar_direction.png)
+3. TODO:
